@@ -1,14 +1,10 @@
-<div align="center">
+# Sri Harshavardhan Palaniswamy J
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sri%20Harshavardhan%20Palaniswamy%20J&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20%E2%80%94%20one%20model%20at%20a%20time&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Builder;ML+Systems+%7C+NLP+%7C+Computer+Vision;PSG+Institute+of+Technology+and+Applied+Research)](https://git.io/typing-svg)
-
-</div>
+AI & Data Science Engineering student at PSG Institute of Technology and Applied Research. I build end-to-end ML systems and full-stack applications — focused on getting things shipped rather than just studied.
 
 ---
 
-## 👤 About Me
+## About Me
 
 ```python
 class SriHarshavardhan:
@@ -27,7 +23,7 @@ class SriHarshavardhan:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -77,13 +73,13 @@ class SriHarshavardhan:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔍 Defectron
+### Defectron
 **Real-Time Product Defect Detection**
 
 YOLOv8-powered computer vision system for detecting manufacturing defects in real time. Built for a hackathon, optimized for edge deployment.
@@ -95,7 +91,7 @@ YOLOv8-powered computer vision system for detecting manufacturing defects in rea
 </td>
 <td width="33%" valign="top">
 
-### 📝 Eduscribe
+### Eduscribe
 **AI Lecture Companion**
 
 Transforms YouTube lectures into transcripts, AI summaries, translations, and spoken audio. Full-stack app with FastAPI backend and React frontend.
@@ -107,7 +103,7 @@ Transforms YouTube lectures into transcripts, AI summaries, translations, and sp
 </td>
 <td width="33%" valign="top">
 
-### ❄️ Froze Networks
+### Froze Networks
 **ISP Management Dashboard**
 
 ASP.NET MVC Razor dashboard with dark/light theme, role-based auth (Admin/Client), animated UI, and Code First SQL Server integration.
@@ -122,102 +118,20 @@ ASP.NET MVC Razor dashboard with dark/light theme, role-based auth (Admin/Client
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hxrsha05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxrsha05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hxrsha05&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Harsha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hxrsha05&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hxrsha05&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> ⚙️ Enable the snake animation by adding this GitHub Action to your profile repo.
-> Create `.github/workflows/snake.yml` with the content below:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hxrsha05
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
-## 💡 Skill Proficiency
-
-<div align="center">
+## Skills
 
 | Skill | Level |
 |-------|-------|
-| Python & ML Pipelines | `█████████░` 90% |
-| Deep Learning / CV | `████████░░` 80% |
-| React / TypeScript | `███████░░░` 70% |
-| FastAPI / Backend | `███████░░░` 70% |
-| ASP.NET / C# | `██████░░░░` 60% |
-| Competitive Programming | `███████░░░` 70% |
-
-</div>
+| Python & ML Pipelines | Advanced |
+| Deep Learning / CV | Proficient |
+| React / TypeScript | Intermediate |
+| FastAPI / Backend | Intermediate |
+| ASP.NET / C# | Intermediate |
+| Competitive Programming | Intermediate |
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -230,10 +144,4 @@ jobs:
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=hxrsha05&color=6C63FF&style=flat&label=Profile+Views)
-
-</div>
+*PSG Institute of Technology and Applied Research — B.E. AI & Data Science*
