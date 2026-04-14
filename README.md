@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sri%20Harshavardhan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20%E2%80%94%20one%20model%20at%20a%20time&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sri%20Harshavardhan%20Palaniswamy%20J&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Building%20intelligent%20systems%20%E2%80%94%20one%20model%20at%20a%20time&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Builder;ML+Systems+%7C+NLP+%7C+Computer+Vision;PSG+iTech+%E2%80%94+Semester+VI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Engineer;Full-Stack+Builder;ML+Systems+%7C+NLP+%7C+Computer+Vision;PSG+Institute+of+Technology+and+Applied+Research)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,7 +15,7 @@ class SriHarshavardhan:
     def __init__(self):
         self.name       = "Sri Harshavardhan Palaniswamy J"
         self.alias      = "hxrsha05"
-        self.degree     = "B.E. AI & Data Science — PSG iTech (Sem VI)"
+        self.degree = "B.E. AI & Data Science — PSG Institute of Technology and Applied Research"
         self.focus      = ["Machine Learning", "NLP", "Full-Stack Dev", "Computer Vision"]
         self.currently  = "Building end-to-end AI systems & chasing top-tier internships"
         self.aspires_to = ["Microsoft", "Meta", "Google", "AWS", "Amazon"]
