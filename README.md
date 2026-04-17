@@ -14,22 +14,38 @@
 <tr>
 <td width="55%">
 
-**Sri Harshavardhan Palaniswamy J** — AI & Data Science undergrad at PSG Institute of Technology and Applied Research, currently in my third year.
+### Engineer first. Builder by habit.
 
-I build end-to-end AI systems — computer vision pipelines, NLP models, full-stack apps. Not just notebooks. Actual deployed things.
+I’m Sri Harshavardhan Palaniswamy J, an AI & Data Science undergrad at PSG Institute of Technology and Applied Research.
 
-Currently chasing internships at Microsoft, Meta, Google, AWS, and Amazon. If you're hiring, my inbox is open.
+I like work that starts a little messy and ends useful: computer vision systems that survive outside a notebook, NLP tools that are actually readable, and full-stack apps that feel intentional rather than assembled.
 
-```
-focus      →  ML · NLP · Computer Vision · Full-Stack
-building   →  end-to-end AI systems
-competing  →  LeetCode grind, hackathons
+Right now I’m using most of my time on internships, problem solving, and projects that need more restraint than hype.
+
+```text
+what I optimize for
+- systems that feel finished
+- code that other people can follow
+- models that earn trust, not just metrics
 ```
 
 </td>
 <td width="45%" align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=2000&color=6C63FF&center=true&vCenter=true&multiline=true&height=120&width=300&lines=while+True%3A;++++build();++++ship();++++repeat())](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1700&color=6C63FF&center=true&vCenter=true&multiline=true&height=120&width=360&lines=build+useful+systems;prefer+signal+over+noise;ship%2C+measure%2C+iterate;repeat+with+intent)](https://git.io/typing-svg)
+
+<br/>
+
+<div align="center">
+
+<pre>
+status   : building
+mode     : practical
+focus    : ML / NLP / CV / web apps
+style    : clean, deliberate, shipped
+</pre>
+
+</div>
 
 </td>
 </tr>
@@ -181,7 +197,11 @@ ASP.NET MVC Razor dashboard with dark/light theme, role-based auth (Admin/Client
 
 <div align="center">
 
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hxrsha05/hxrsha05/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -191,7 +211,7 @@ ASP.NET MVC Razor dashboard with dark/light theme, role-based auth (Admin/Client
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sriharsha05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sriharshajay)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h4rsh4.exe)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sriharshajay@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hxrsha05)
@@ -204,6 +224,5 @@ ASP.NET MVC Razor dashboard with dark/light theme, role-based auth (Admin/Client
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hxrsha05&color=6C63FF&style=flat&label=Profile+Views)
 
 </div>
